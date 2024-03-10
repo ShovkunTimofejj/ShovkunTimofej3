@@ -10,62 +10,62 @@ public class QuestionBase {
 
     private QuestionBase() {
         questions = new ArrayList<>();
-        questions.add(new Question("img/img/1.png",
+        questions.add(new Question("webapp/img/img/1.png",
                 "BMW",
                 "Bentley",
                 "Lexus",
                 "Audi", 2));
-        questions.add(new Question("img/img/2.png",
+        questions.add(new Question("webapp/img/img/2.png",
                 "Brilliance",
                 "Skoda",
                 "Lexus",
                 "Dodge", 1));
-        questions.add(new Question("img/img/3.png",
+        questions.add(new Question("webapp/img/img/3.png",
                 "Skoda",
                 "Alfa Romeo",
                 "Acura",
                 "Dodge", 4));
-        questions.add(new Question("img/img/4.png",
+        questions.add(new Question("webapp/img/img/4.png",
                 "Mazda",
                 "Audi",
                 "Brilliance",
                 "Dodge", 2));
-        questions.add(new Question("img/img/5.png",
+        questions.add(new Question("webapp/img/img/5.png",
                 "Daihatsu",
                 "Bentley",
                 "BMW",
                 "Jaguar", 1));
-        questions.add(new Question("img/img/6.png",
+        questions.add(new Question("webapp/img/img/6.png",
                 "Alfa Romeo",
                 "Acura",
                 "Citroen",
                 "Lexus", 2));
-        questions.add(new Question("img/img/7.png",
+        questions.add(new Question("webapp/img/img/7.png",
                 "Alfa Romeo",
                 "Porsche",
                 "Mercedes",
                 "Volkswagen", 1));
-        questions.add(new Question("img/img/8.png",
+        questions.add(new Question("webapp/img/img/8.png",
                 "Volkswagen",
                 "Citroen",
                 "Jaguar",
                 "BMW", 4));
-        questions.add(new Question("img/img/9.png",
+        questions.add(new Question("webapp/img/img/9.png",
                 "Chevrolet",
                 "Porsche",
                 "Lexus",
                 "BMW", 1));
-        questions.add(new Question("img/img/10.png",
+        questions.add(new Question("webapp/img/img/10.png",
                 "Alfa Romeo",
                 "Porsche",
                 "Daewoo",
                 "Acura", 3));
-        questions.add(new Question("img/img/11.png",
+        questions.add(new Question("webapp/img/img/11.png",
                 "BMW",
                 "Mercedes",
                 "Ford",
                 "Aston Martin", 2));
-        questions.add(new Question("img/img/12.png",
+        questions.add(new Question("webapp/img/img/12.png",
                 "Ford",
                 "Citroen",
                 "Jaguar",
@@ -80,7 +80,7 @@ public class QuestionBase {
                 "BMW",
                 "Chevrolet",
                 "Aston Martin", 4));
-        questions.add(new Question("img/img/15.png",
+        questions.add(new Question("webapp/img/img/15.png",
                 "Daewoo",
                 "Volkswagen",
                 "Citroen",
