@@ -5,7 +5,7 @@
 <html>
 <head>
     <title>CAR LOGO QUIZ</title>
-    <link rel="stylesheet" type="text/css" href="./static/style.css">
+    <link rel="stylesheet" type="text/css" href="webapp/static/style.css">
     <script type="text/javascript" src="script.js"></script>
 </head>
 <body>
